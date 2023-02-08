@@ -1,0 +1,16 @@
+id: I9F272178
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:48:40.370128
+last_modified: 2023-02-08 14:48:40.370248
+source_metadata:
+  title: Akṣayamatinirdeśa
+  language: en
+bases:
+  CB2E:
+    base_file: CB2E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
